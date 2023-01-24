@@ -1,0 +1,30 @@
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe.config
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.pdb
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\websocket-sharp.dll
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.AssemblyReference.cache
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CopyComplete
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.pdb
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe.config
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.pdb
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\websocket-sharp.dll
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.AssemblyReference.cache
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CopyComplete
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\Assessment microcontroller\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.pdb
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe.config
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\web-socket-microcontroller.pdb
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\bin\Debug\websocket-sharp.dll
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.AssemblyReference.cache
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CoreCompileInputs.cache
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.csproj.CopyComplete
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.exe
+C:\Users\Solicy\Desktop\microcontroller-dot-net-framework\web-socket-microcontroller\web-socket-microcontroller\obj\Debug\web-socket-microcontroller.pdb

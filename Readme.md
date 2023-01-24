@@ -26,3 +26,9 @@ npm start
 1. in your laptop open localhost:3000 url
 2. with your phone scan the QR
 
+
+## How I need to connect to wss connection ? 
+WSS will not work correct if in your computer, or in virtual machine where this application will be used , secured connection will not ben configured... 
+so to fix that part go and configure the ssl certifications and connections issues ... 
+
+[Documentation for configuration secured web socket connection ](https://docs.bentley.com/livecontent/web/ConstructSim%20Work%20Package%20Server%20CONNECT%20Edition%20Update%202%20Setup%20Guide-v3/en/GUID-3191DD33-045A-4366-BA3C-E4E88DDF8B23.html)
